@@ -1,0 +1,10 @@
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\bin\Debug\TP_MOD3_KPL.exe.config
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\bin\Debug\TP_MOD3_KPL.exe
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\bin\Debug\TP_MOD3_KPL.pdb
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\obj\Debug\TP_MOD3_KPL.csproj.AssemblyReference.cache
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\obj\Debug\TP_MOD3_KPL.Form1.resources
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\obj\Debug\TP_MOD3_KPL.Properties.Resources.resources
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\obj\Debug\TP_MOD3_KPL.csproj.GenerateResource.cache
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\obj\Debug\TP_MOD3_KPL.csproj.CoreCompileInputs.cache
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\obj\Debug\TP_MOD3_KPL.exe
+C:\Users\Micha\Documents\TP_KPL\TP-Modul-3\TP_MOD3_KPL\TP_MOD3_KPL\obj\Debug\TP_MOD3_KPL.pdb
